@@ -1,0 +1,1769 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.58978,
+                    48.9197
+                ]
+            },
+            "properties": {
+                "name": "Aspenthal - Zinswiller",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1637.jpg|100}}\n\n**Type de site :** Bloc\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1637|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1637&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Bloc",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.39118,
+                    48.8056
+                ]
+            },
+            "properties": {
+                "name": "Carrière du Gauxberg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3134.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3134|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.8054,7.39004|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3134&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.37816,
+                    48.3154
+                ]
+            },
+            "properties": {
+                "name": "Falkenstein",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1627.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1627|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.3295,7.39561|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1627&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31684,
+                    48.6769
+                ]
+            },
+            "properties": {
+                "name": "Geissfels",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1630.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1630|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1630&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.40171,
+                    48.4679
+                ]
+            },
+            "properties": {
+                "name": "Klingenthal",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3117.jpg|100}}\n\n**Attention Réglementation particulière :**\nPériode de nidification de février à juillet.\r\nLe site est fermé entre février et mi avril, puis ré-ouvert en fonction de na nidification soit partiellement soit totalement.\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3117|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4679,7.40168|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3117&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78982,
+                    49.0039
+                ]
+            },
+            "properties": {
+                "name": "Krappenfels Gimbelhof (Lembach)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2487.jpg|100}}\n\n**Attention Réglementation particulière :**\nsite interdit lors des périodes de nidification \n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2487|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2487&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.47197,
+                    48.6302
+                ]
+            },
+            "properties": {
+                "name": "Kronthal (Le)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1629.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1629|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6298,7.47103|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1629&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.77528,
+                    49.0478
+                ]
+            },
+            "properties": {
+                "name": "Langenfels, Fleckenstein",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1634.jpg|100}}\n\n**Attention Réglementation particulière :**\n\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1634|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0496,7.78045|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1634&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31297,
+                    48.7204
+                ]
+            },
+            "properties": {
+                "name": "Laurenzoboulderfels -Wasserwald",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2223.jpg|100}}\n\n**Attention Réglementation particulière :**\nIl est impératif de respecter les horaires.\r\n1er octobre - 30 avril : 9h00-16h00\r\n1er mai-30 septembre : 9h00-19h00\r\n\r\nles horaires s'entendent par exemple 19h00 maxi au parking, pas sur le site\r\n\r\nMerci de votre compréhension\n\n**Type de site :** Bloc\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2223|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2223&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Bloc",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.32582,
+                    48.7026
+                ]
+            },
+            "properties": {
+                "name": "Le Brotsch",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1644.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1644|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6976,7.33387|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1644&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.21778,
+                    48.3961
+                ]
+            },
+            "properties": {
+                "name": "Le Châteu-de-la-Roche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1631.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1631|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.3975,7.20915|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1631&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.33931,
+                    48.7492
+                ]
+            },
+            "properties": {
+                "name": "Le saut du prince Charles",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3197.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3197|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7504,7.34051|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3197&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.34861,
+                    48.7672
+                ]
+            },
+            "properties": {
+                "name": "Les Roches Plates",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1641.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1641|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7743,7.34917|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1641&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78639,
+                    49.0534
+                ]
+            },
+            "properties": {
+                "name": "Loewenstein",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2488.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2488|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0475,7.78669|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2488&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29275,
+                    48.6408
+                ]
+            },
+            "properties": {
+                "name": "Muhlberg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2672.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2672|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6371,7.29661|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2672&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.33365,
+                    48.4232
+                ]
+            },
+            "properties": {
+                "name": "Neuntelstein",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1626.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1626|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4219,7.3338|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1626&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.46566,
+                    48.6361
+                ]
+            },
+            "properties": {
+                "name": "Rocher du Lion",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1628.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1628|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6348,7.47011|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1628&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52858,
+                    48.9076
+                ]
+            },
+            "properties": {
+                "name": "Rothbach site de bloc",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1636.jpg|100}}\n\n**Type de site :** Bloc\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1636|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1636&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Bloc",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.82693,
+                    48.9778
+                ]
+            },
+            "properties": {
+                "name": "Soultzerkopf",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1635.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1635|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.9777,7.82665|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1635&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68549,
+                    49.0375
+                ]
+            },
+            "properties": {
+                "name": "Wachfels - Obersteinbach",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2495.jpg|100}}\n\n**Attention Réglementation particulière :**\nRespecter la Charte,\r\n\r\nSoyez discret, peut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2495|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0367,7.68324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2495&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.20116,
+                    48.4845
+                ]
+            },
+            "properties": {
+                "name": "Wackenbach - Schirmeck",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1640.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1640|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4846,7.2013|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1640&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68246,
+                    48.9922
+                ]
+            },
+            "properties": {
+                "name": "Windstein (Chateau du vieux Windstein)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1632.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdit en cas de nidification.\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1632|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1632&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.69335,
+                    49.0388
+                ]
+            },
+            "properties": {
+                "name": "Wolffelsen Obersteinbach",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nsoyez discret,\r\nrespecter les interdits : feu, camping sauvage, etc...\r\npeut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.58206,
+                    48.9259
+                ]
+            },
+            "properties": {
+                "name": "Ziegelberg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2493.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2493|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.9241,7.57893|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2493&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.24591,
+                    47.9158
+                ]
+            },
+            "properties": {
+                "name": "Bergholtz",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2362.jpg|100}}\n\n**Attention Réglementation particulière :**\nLe site est ouvert en TA\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2362|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2362&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.10339,
+                    48.0627
+                ]
+            },
+            "properties": {
+                "name": "Bouclier du Tanet",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1653.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1653|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1653&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.33528,
+                    47.4944
+                ]
+            },
+            "properties": {
+                "name": "Grotte des Nains",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2360.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2360|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2360&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.96403,
+                    47.931
+                ]
+            },
+            "properties": {
+                "name": "Kruth-Wildenstein (lac)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2370.jpg|100}}\n\n**Attention Réglementation particulière :**\nSite à nouveau autorisé \n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2370|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2370&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.96403,
+                    47.931
+                ]
+            },
+            "properties": {
+                "name": "Kruth-Wildenstein - Le Bockloch",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1657.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1657|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1657&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1059,
+                    48.052
+                ]
+            },
+            "properties": {
+                "name": "La Martinswand",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1648.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1648|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1648&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.90693,
+                    47.807
+                ]
+            },
+            "properties": {
+                "name": "Lac d'Alfeld- Knappen",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2369.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2369|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2369&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.16446,
+                    48.1261
+                ]
+            },
+            "properties": {
+                "name": "Le Lac Blanc-Rocher  Hans",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1654.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1654|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1654&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.08173,
+                    48.025
+                ]
+            },
+            "properties": {
+                "name": "Le Petit Hohneck",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1650.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1650|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1650&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.07073,
+                    48.0091
+                ]
+            },
+            "properties": {
+                "name": "Les Spitzkoepfe",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1649.jpg|100}}\n\n**Attention Réglementation particulière :**\nSuite de la nidification inattendue du faucon pèlerin au Spitzkoepfe : lors de la pose des panneaux invitant les sportifs à éviter tout dérangement avant le 1er juillet, il a été constaté  labsence de jeunes dans le nid, absence confirmée ce matin par la LPO.\r\nLes panneaux seront dont retirés cet après midi aux entrées de larête. \r\n\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1649|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1649&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.27445,
+                    48.004
+                ]
+            },
+            "properties": {
+                "name": "Nouveau Gueberschwihr",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2356.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2356|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2356&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.95156,
+                    47.8279
+                ]
+            },
+            "properties": {
+                "name": "Rocher du corbeau, Krappenfels",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1647.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdit du  1 janvier au 1 juillet (période de nidification des rapaces).\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1647|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1647&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1059,
+                    48.052
+                ]
+            },
+            "properties": {
+                "name": "Rochers Verts",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1652.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1652|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1652&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29032,
+                    48.0729
+                ]
+            },
+            "properties": {
+                "name": "Saint Gilles- Wintzenheim",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2358.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2358|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2358&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.15244,
+                    47.821
+                ]
+            },
+            "properties": {
+                "name": "Steinbach-Hirnelestein",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2367.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2367|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2367&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09943,
+                    47.8122
+                ]
+            },
+            "properties": {
+                "name": "Thann- Rosenburg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2368.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2368|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2368&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69625,
+                    49.9937
+                ]
+            },
+            "properties": {
+                "name": "Divers Monts",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3218.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3218|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.9924,4.702|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3218&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78416,
+                    49.8783
+                ]
+            },
+            "properties": {
+                "name": "La Roche aux Corpias, au-dessus de la route",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3080.jpg|100}}\n\n**Attention Réglementation particulière :**\nFermeture chaque année à partir du 1er février pour favoriser la nidification d'espèces rupestres. Réouverture partielle possible en fonction du lieu de la nidification et au plus tard le 15 juin.\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3080|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8775,4.78463|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3080&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78534,
+                    49.877
+                ]
+            },
+            "properties": {
+                "name": "La roche aux Corpias, sous la route",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3219.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3219|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8741,4.78929|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3219&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74279,
+                    49.8628
+                ]
+            },
+            "properties": {
+                "name": "Les Quatres Fils Aymon, la Roche-Bayard",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/710.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/710|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8605,4.73962|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=710&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78425,
+                    49.8907
+                ]
+            },
+            "properties": {
+                "name": "Roc-la-Tour, les tours",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/709.jpg|100}}\n\n**Attention Réglementation particulière :**\nSite situé au cur du Parc Naturel Régional des Ardennes\r\n\r\nLa poursuite de l'autorisation de pratique est conditionnée au respect de la faune et de la flore, et à celui des autres usagers, notamment des promeneurs.\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/709|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8929,4.78262|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=709&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78056,
+                    49.8901
+                ]
+            },
+            "properties": {
+                "name": "Roc-la-Tour, petite falaise",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3274.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3274|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8928,4.78021|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3274&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.98362,
+                    48.8895
+                ]
+            },
+            "properties": {
+                "name": "Vertus",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/340.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/340|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.8897,3.98688|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=340&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58774,
+                    48.1898
+                ]
+            },
+            "properties": {
+                "name": "Bourmont 1 le Côna/ Les Roches",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/341.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/341|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.1904,5.58619|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=341&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58881,
+                    48.1934
+                ]
+            },
+            "properties": {
+                "name": "Bourmont 2 Rocher du Côna",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/342.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/342|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=342&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34222,
+                    47.7886
+                ]
+            },
+            "properties": {
+                "name": "Cohons / Sous-Cerfol",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/343.jpg|100}}\n\n**Attention Réglementation particulière :**\nDu 01 janvier au 30 juin l'accès à la falaise n'est autorisé que les mercredi, samedi et dimanche de 13h00 à 19h00 pour des raison de nidification et seulement dans les zones ouvertes. \n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/343|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=343&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.26838,
+                    47.8647
+                ]
+            },
+            "properties": {
+                "name": "Falaise de la Mouche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3013.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3013|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3013&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.151,
+                    48.229
+                ]
+            },
+            "properties": {
+                "name": "Vieville/ Roche Bernad",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/345.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/345|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.2274,5.1504|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=345&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0418,
+                    48.6509
+                ]
+            },
+            "properties": {
+                "name": "Maron",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1413.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1413|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6496,6.04056|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1413&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.93444,
+                    48.4729
+                ]
+            },
+            "properties": {
+                "name": "Roches de Marie Fontaine",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3198.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3198|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4716,6.9324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3198&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.54326,
+                    48.8997
+                ]
+            },
+            "properties": {
+                "name": "Dames-de-Meuse ",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1416.jpg|100}}\n\n**Attention Réglementation particulière :**\n<Strong>Fermeture partielle (secteur « la Roche de la chouette ») possible en fonction présence nidification entre le 01/02 et le 31/07 selon la présence de nidification. Se renseigner en Mairie pour connaitre s'il y a un arrêté.</Strong>\r\nMERCI DE RESPECTER LES ZONES DE FERMETURE et l'ENVIRONNEMENT\r\n\r\nConvention Conseil Départemental Meuse, Mairie Saint-Mihiel et FFME en date du 09/09/2022\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1416|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.898,5.54392|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1416&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5422,
+                    48.7891
+                ]
+            },
+            "properties": {
+                "name": "Sur le Mont",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1419.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1419|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7906,5.54415|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1419&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.19673,
+                    48.686
+                ]
+            },
+            "properties": {
+                "name": "Falkenfels",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2489.jpg|100}}\n\n**Attention Réglementation particulière :**\nSecteur interdit durant la période 1er fébrier - 1er juillet (nidification) : partie ouest du site.\r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2489|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2489&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.23597,
+                    48.6538
+                ]
+            },
+            "properties": {
+                "name": "Grotte du Baldür",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2523.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2523|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2523&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.25029,
+                    48.7356
+                ]
+            },
+            "properties": {
+                "name": "Krappenfels - Lutzelbourg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1433.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdit temporairement du 1er février au 1er Juillet de chaque année : Nidification de faucon pèlerin. \r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1433|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1433&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.22619,
+                    48.6756
+                ]
+            },
+            "properties": {
+                "name": "KUHFELS",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3238.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3238|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6742,7.22389|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3238&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56753,
+                    48.984
+                ]
+            },
+            "properties": {
+                "name": "Landersberg (Nouveau et ancien)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2486.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdiction en cas de Nidification\r\n\r\n\r\n\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2486|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2486&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.02588,
+                    49.2186
+                ]
+            },
+            "properties": {
+                "name": "Montois-la-Montagne",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1428.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1428|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1428&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.16321,
+                    48.7179
+                ]
+            },
+            "properties": {
+                "name": "Rocher Canal",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\n\r\nSecteur interdit durant la période 1er fébrier - 1er juillet (nidification) : partie ouest du site.\r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.23597,
+                    48.6538
+                ]
+            },
+            "properties": {
+                "name": "Rocher du Corbeau",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2522.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2522|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2522&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56753,
+                    48.984
+                ]
+            },
+            "properties": {
+                "name": "Rocher Philippe",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1430.jpg|100}}\n\n**Attention Réglementation particulière :**\nHoraire:escalade autorisée entre 8h et 19h. Période:si nidification du faucon pèlerin ou du grand duc, l'escalade sera interdite entre le 1ier février et le 1ier juillet. L'accès au site sera interdit en cas d'une action de chasse en cours idem\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1430|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1430&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.52322,
+                    49.0256
+                ]
+            },
+            "properties": {
+                "name": "Sandkopf",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2492.jpg|100}}\n\n**Attention Réglementation particulière :**\nEn cas de nidification : interdiction temporaire\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2492|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0242,7.52171|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2492&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56753,
+                    48.984
+                ]
+            },
+            "properties": {
+                "name": "Waldeck",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1431.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention : site en cours de reconventionnement\r\nAttention : interdiction en cas de nidification\r\nAttention : voies riquant être interdites à la pratique (interêt archéologique)\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1431|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1431&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.44998,
+                    48.1748
+                ]
+            },
+            "properties": {
+                "name": "Carrière Philippe Mengin (Carrière Collot)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2109.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2109|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2109&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.66878,
+                    48.0246
+                ]
+            },
+            "properties": {
+                "name": "Grand Rocher de St-Amé ",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2104.jpg|100}}\n\n**Attention Réglementation particulière :**\nNe pas grimper du 15 février au 15 juin (période de nidification des rapaces).\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2104|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2104&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.90859,
+                    48.3816
+                ]
+            },
+            "properties": {
+                "name": "Haute-Pierre",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2096.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2096|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2096&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.94892,
+                    48.2836
+                ]
+            },
+            "properties": {
+                "name": "La Biche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2106.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdiction d'accès entre le 1er février au 15 juin pour nidification du Faucon Pèlerin.\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2106|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2106&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.83727,
+                    47.9628
+                ]
+            },
+            "properties": {
+                "name": "La Grande Roche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2099.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2099|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2099&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57856,
+                    48.0474
+                ]
+            },
+            "properties": {
+                "name": "La Roche Fleurie",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2113.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2113|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2113&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.51528,
+                    48.1998
+                ]
+            },
+            "properties": {
+                "name": "Le Void des Roches",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2111.jpg|100}}\n\n**Type de site :** Bloc\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2111|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2111&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Bloc",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8716,
+                    47.9404
+                ]
+            },
+            "properties": {
+                "name": "Les Quatre Clochers",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2100.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2100|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2100&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.37168,
+                    48.1982
+                ]
+            },
+            "properties": {
+                "name": "Les roches d'Olima-Epinal ",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2110.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2110|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2110&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57856,
+                    48.0474
+                ]
+            },
+            "properties": {
+                "name": "Montiroche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2114.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2114|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2114&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.78779,
+                    48.0226
+                ]
+            },
+            "properties": {
+                "name": "Moutier-des-Fées",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2097.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2097|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2097&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.66878,
+                    48.0246
+                ]
+            },
+            "properties": {
+                "name": "Petit Rocher de Saint-Amé (Monroche)",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2103.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2103|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2103&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.89935,
+                    48.2495
+                ]
+            },
+            "properties": {
+                "name": "Pierre de la Roche",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2105.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2105|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2105&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.78287,
+                    47.9071
+                ]
+            },
+            "properties": {
+                "name": "Roche de Beaudevé - Le Ménil",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2112.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2112|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2112&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.87095,
+                    48.0692
+                ]
+            },
+            "properties": {
+                "name": "Rocher des Artistes",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2102.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2102|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2102&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.91737,
+                    48.0214
+                ]
+            },
+            "properties": {
+                "name": "Roches Beuty",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2098.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2098|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2098&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.74172,
+                    48.2231
+                ]
+            },
+            "properties": {
+                "name": "Roches de Pointhaie - Bruyère",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2108.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2108|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2108&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        }
+    ]
+}
