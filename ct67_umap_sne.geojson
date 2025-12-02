@@ -75,8 +75,8 @@
             },
             "properties": {
                 "name": "Geissfels",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1630.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1630|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1630&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
-                "type": "Terrain d'aventure",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1630.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1630|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1630&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
