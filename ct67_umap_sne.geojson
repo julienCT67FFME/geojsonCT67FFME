@@ -33,7 +33,7 @@
             },
             "properties": {
                 "name": "Carrière du Gauxberg",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3134.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3134|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.8054,7.39004|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3134&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3134.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3134|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.8054,7.39004|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3134&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -54,7 +54,7 @@
             },
             "properties": {
                 "name": "Falkenstein",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1627.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1627|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.3295,7.39561|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1627&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1627.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1627|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.3295,7.39561|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1627&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -96,12 +96,12 @@
             },
             "properties": {
                 "name": "Klingenthal",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3117.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3117|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4679,7.40168|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3117&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3117.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3117|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4679,7.40168|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3117&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -122,7 +122,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -138,7 +138,7 @@
             },
             "properties": {
                 "name": "Kronthal (Le)",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1629.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1629|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6298,7.47103|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1629&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1629.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1629|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6298,7.47103|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1629&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -159,12 +159,12 @@
             },
             "properties": {
                 "name": "Langenfels, Fleckenstein",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1634.jpg|100}}\n\n**Attention Réglementation particulière :**\n\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1634|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0496,7.78045|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1634&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1634.jpg|100}}\n\n**Attention Réglementation particulière :**\n\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1634|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0496,7.78045|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1634&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -185,7 +185,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -201,7 +201,7 @@
             },
             "properties": {
                 "name": "Le Brotsch",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1644.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1644|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6976,7.33387|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1644&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1644.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1644|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6976,7.33387|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1644&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -222,7 +222,7 @@
             },
             "properties": {
                 "name": "Le Châteu-de-la-Roche",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1631.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1631|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.3975,7.20915|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1631&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1631.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1631|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.3975,7.20915|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1631&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -243,7 +243,7 @@
             },
             "properties": {
                 "name": "Le saut du prince Charles",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3197.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3197|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7504,7.34051|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3197&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3197.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3197|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7504,7.34051|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3197&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -264,7 +264,7 @@
             },
             "properties": {
                 "name": "Les Roches Plates",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1641.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1641|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7743,7.34917|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1641&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1641.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1641|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7743,7.34917|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1641&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -285,7 +285,7 @@
             },
             "properties": {
                 "name": "Loewenstein",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2488.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2488|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0475,7.78669|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2488&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2488.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2488|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0475,7.78669|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2488&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -306,7 +306,7 @@
             },
             "properties": {
                 "name": "Muhlberg",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2672.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2672|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6371,7.29661|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2672&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2672.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2672|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6371,7.29661|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2672&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -327,7 +327,7 @@
             },
             "properties": {
                 "name": "Neuntelstein",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1626.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1626|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4219,7.3338|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1626&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1626.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1626|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4219,7.3338|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1626&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -348,7 +348,7 @@
             },
             "properties": {
                 "name": "Rocher du Lion",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1628.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1628|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6348,7.47011|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1628&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1628.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1628|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6348,7.47011|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1628&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -390,7 +390,7 @@
             },
             "properties": {
                 "name": "Soultzerkopf",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1635.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1635|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.9777,7.82665|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1635&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1635.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1635|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.9777,7.82665|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1635&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -411,12 +411,12 @@
             },
             "properties": {
                 "name": "Wachfels - Obersteinbach",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2495.jpg|100}}\n\n**Attention Réglementation particulière :**\nRespecter la Charte,\r\n\r\nSoyez discret, peut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2495|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0367,7.68324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2495&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2495.jpg|100}}\n\n**Attention Réglementation particulière :**\nRespecter la Charte,\r\n\r\nSoyez discret, peut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2495|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0367,7.68324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2495&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -432,7 +432,7 @@
             },
             "properties": {
                 "name": "Wackenbach - Schirmeck",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1640.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1640|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4846,7.2013|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1640&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1640.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1640|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4846,7.2013|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1640&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -458,7 +458,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -474,12 +474,12 @@
             },
             "properties": {
                 "name": "Wolffelsen Obersteinbach",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nsoyez discret,\r\nrespecter les interdits : feu, camping sauvage, etc...\r\npeut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nsoyez discret,\r\nrespecter les interdits : feu, camping sauvage, etc...\r\npeut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -495,7 +495,7 @@
             },
             "properties": {
                 "name": "Ziegelberg",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2493.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2493|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.9241,7.57893|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2493&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2493.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2493|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.9241,7.57893|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2493&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -521,7 +521,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -584,7 +584,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -710,7 +710,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -752,7 +752,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -852,7 +852,7 @@
             },
             "properties": {
                 "name": "Divers Monts",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3218.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3218|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.9924,4.702|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3218&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3218.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3218|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.9924,4.702|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3218&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -873,12 +873,12 @@
             },
             "properties": {
                 "name": "La Roche aux Corpias, au-dessus de la route",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3080.jpg|100}}\n\n**Attention Réglementation particulière :**\nFermeture chaque année à partir du 1er février pour favoriser la nidification d'espèces rupestres. Réouverture partielle possible en fonction du lieu de la nidification et au plus tard le 15 juin.\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3080|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8775,4.78463|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3080&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3080.jpg|100}}\n\n**Attention Réglementation particulière :**\nFermeture chaque année à partir du 1er février pour favoriser la nidification d'espèces rupestres. Réouverture partielle possible en fonction du lieu de la nidification et au plus tard le 15 juin.\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3080|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.8775,4.78463|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3080&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -894,7 +894,7 @@
             },
             "properties": {
                 "name": "La roche aux Corpias, sous la route",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3219.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3219|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8741,4.78929|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3219&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3219.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3219|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.8741,4.78929|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3219&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -915,7 +915,7 @@
             },
             "properties": {
                 "name": "Les Quatres Fils Aymon, la Roche-Bayard",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/710.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/710|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8605,4.73962|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=710&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/710.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/710|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.8605,4.73962|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=710&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Terrain d'aventure",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -936,12 +936,12 @@
             },
             "properties": {
                 "name": "Roc-la-Tour, les tours",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/709.jpg|100}}\n\n**Attention Réglementation particulière :**\nSite situé au cur du Parc Naturel Régional des Ardennes\r\n\r\nLa poursuite de l'autorisation de pratique est conditionnée au respect de la faune et de la flore, et à celui des autres usagers, notamment des promeneurs.\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/709|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8929,4.78262|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=709&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/709.jpg|100}}\n\n**Attention Réglementation particulière :**\nSite situé au cur du Parc Naturel Régional des Ardennes\r\n\r\nLa poursuite de l'autorisation de pratique est conditionnée au respect de la faune et de la flore, et à celui des autres usagers, notamment des promeneurs.\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/709|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.8929,4.78262|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=709&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Terrain d'aventure",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -957,7 +957,7 @@
             },
             "properties": {
                 "name": "Roc-la-Tour, petite falaise",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3274.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3274|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.8928,4.78021|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3274&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3274.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3274|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.8928,4.78021|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3274&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -978,7 +978,7 @@
             },
             "properties": {
                 "name": "Vertus",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/340.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/340|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.8897,3.98688|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=340&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/340.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/340|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.8897,3.98688|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=340&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -999,7 +999,7 @@
             },
             "properties": {
                 "name": "Bourmont 1 le Côna/ Les Roches",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/341.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/341|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.1904,5.58619|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=341&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/341.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/341|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.1904,5.58619|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=341&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1046,7 +1046,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1083,7 +1083,7 @@
             },
             "properties": {
                 "name": "Vieville/ Roche Bernad",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/345.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/345|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.2274,5.1504|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=345&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/345.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/345|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.2274,5.1504|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=345&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1104,7 +1104,7 @@
             },
             "properties": {
                 "name": "Maron",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1413.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1413|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6496,6.04056|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1413&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1413.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1413|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6496,6.04056|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1413&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Terrain d'aventure",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1125,7 +1125,7 @@
             },
             "properties": {
                 "name": "Roches de Marie Fontaine",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3198.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3198|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.4716,6.9324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3198&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3198.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3198|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4716,6.9324|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3198&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1146,12 +1146,12 @@
             },
             "properties": {
                 "name": "Dames-de-Meuse ",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1416.jpg|100}}\n\n**Attention Réglementation particulière :**\n<Strong>Fermeture partielle (secteur « la Roche de la chouette ») possible en fonction présence nidification entre le 01/02 et le 31/07 selon la présence de nidification. Se renseigner en Mairie pour connaitre s'il y a un arrêté.</Strong>\r\nMERCI DE RESPECTER LES ZONES DE FERMETURE et l'ENVIRONNEMENT\r\n\r\nConvention Conseil Départemental Meuse, Mairie Saint-Mihiel et FFME en date du 09/09/2022\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1416|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.898,5.54392|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1416&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1416.jpg|100}}\n\n**Attention Réglementation particulière :**\n<Strong>Fermeture partielle (secteur « la Roche de la chouette ») possible en fonction présence nidification entre le 01/02 et le 31/07 selon la présence de nidification. Se renseigner en Mairie pour connaitre s'il y a un arrêté.</Strong>\r\nMERCI DE RESPECTER LES ZONES DE FERMETURE et l'ENVIRONNEMENT\r\n\r\nConvention Conseil Départemental Meuse, Mairie Saint-Mihiel et FFME en date du 09/09/2022\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1416|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.898,5.54392|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1416&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1167,7 +1167,7 @@
             },
             "properties": {
                 "name": "Sur le Mont",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1419.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1419|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.7906,5.54415|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1419&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1419.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1419|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7906,5.54415|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1419&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Terrain d'aventure",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1193,7 +1193,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1235,7 +1235,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1251,7 +1251,7 @@
             },
             "properties": {
                 "name": "KUHFELS",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3238.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3238|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=48.6742,7.22389|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3238&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3238.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3238|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6742,7.22389|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3238&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -1277,7 +1277,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1319,7 +1319,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1361,7 +1361,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1377,12 +1377,12 @@
             },
             "properties": {
                 "name": "Sandkopf",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2492.jpg|100}}\n\n**Attention Réglementation particulière :**\nEn cas de nidification : interdiction temporaire\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2492|Lien vers la page FFME du site]]\n\n**Parking :** [[https://www.google.com/maps/search/?api=1&query=49.0242,7.52171|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2492&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2492.jpg|100}}\n\n**Attention Réglementation particulière :**\nEn cas de nidification : interdiction temporaire\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2492|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0242,7.52171|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2492&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1403,7 +1403,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1445,7 +1445,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
@@ -1487,7 +1487,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Green",
                     "popupShape": "Panel"
                 }
             }
