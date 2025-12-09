@@ -16,7 +16,7 @@
                 "type": "Bloc",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
-                    "iconClass": "Pin",
+                    "iconClass": "Ball",
                     "color": "Green",
                     "popupShape": "Panel"
                 }
@@ -184,7 +184,7 @@
                 "type": "Bloc",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
-                    "iconClass": "Pin",
+                    "iconClass": "Ball",
                     "color": "Yellow",
                     "popupShape": "Panel"
                 }
@@ -373,7 +373,7 @@
                 "type": "Bloc",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
-                    "iconClass": "Pin",
+                    "iconClass": "Ball",
                     "color": "Green",
                     "popupShape": "Panel"
                 }
@@ -1549,7 +1549,7 @@
                 "type": "Bloc",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
-                    "iconClass": "Pin",
+                    "iconClass": "Ball",
                     "color": "Green",
                     "popupShape": "Panel"
                 }
