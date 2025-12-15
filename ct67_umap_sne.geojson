@@ -300,6 +300,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.30048,
+                    48.6719
+                ]
+            },
+            "properties": {
+                "name": "Monolithe de la Spille",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3338.jpg|100}}\n\n**Type de site :** Inconnu\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3338|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6814,7.31189|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3338&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Inconnu",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.29275,
                     48.6408
                 ]
