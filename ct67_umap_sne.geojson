@@ -495,7 +495,7 @@
             },
             "properties": {
                 "name": "Wolffelsen Obersteinbach",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nsoyez discret,\r\nrespecter les interdits : feu, camping sauvage, etc...\r\npeut être interdit en cas de nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/07\r\n\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
@@ -1209,7 +1209,7 @@
             },
             "properties": {
                 "name": "Falkenfels",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2489.jpg|100}}\n\n**Attention Réglementation particulière :**\nSecteur interdit durant la période 1er fébrier - 1er juillet (nidification) : partie ouest du site.\r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2489|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2489&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2489.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2489|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2489&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
@@ -1251,7 +1251,7 @@
             },
             "properties": {
                 "name": "Krappenfels - Lutzelbourg",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1433.jpg|100}}\n\n**Attention Réglementation particulière :**\nInterdit temporairement du 1er février au 1er Juillet de chaque année : Nidification de faucon pèlerin. \r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1433|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1433&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1433.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1433|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1433&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
@@ -1335,7 +1335,7 @@
             },
             "properties": {
                 "name": "Rocher Canal",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\n\r\nSecteur interdit durant la période 1er fébrier - 1er juillet (nidification) : partie ouest du site.\r\n\r\nSe renseigner auprès du Comité Lorraine de la FFME par courriel à  sne@ct-lorraine.ffme.fr\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
