@@ -237,6 +237,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.47403,
+                    48.6245
+                ]
+            },
+            "properties": {
+                "name": "Le Kobus",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3347.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nOuverture partielle du 15/01 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3347|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6237,7.47344|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3347&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Yellow",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.33931,
                     48.7492
                 ]
