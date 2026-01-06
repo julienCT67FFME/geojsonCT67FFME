@@ -69,13 +69,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.31684,
-                    48.6769
+                    7.29148,
+                    48.672
                 ]
             },
             "properties": {
                 "name": "Geissfels",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1630.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1630|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1630&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1630.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1630|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6813,7.31192|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1630&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
@@ -111,13 +111,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.78982,
-                    49.0039
+                    7.78697,
+                    49.0517
                 ]
             },
             "properties": {
                 "name": "Krappenfels Gimbelhof (Lembach)",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2487.jpg|100}}\n\n**Attention Réglementation particulière :**\nsite interdit lors des périodes de nidification \n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2487|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2487&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2487.jpg|100}}\n\n**Attention Réglementation particulière :**\nsite interdit lors des périodes de nidification \n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2487|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0475,7.78667|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2487&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
@@ -153,8 +153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.77528,
-                    49.0478
+                    7.77627,
+                    49.0493
                 ]
             },
             "properties": {
