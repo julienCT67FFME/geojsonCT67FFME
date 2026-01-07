@@ -48,6 +48,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.69037,
+                    49.0388
+                ]
+            },
+            "properties": {
+                "name": "Chateau du Petit Arnsberg - Obersteinbach",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2494.jpg|100}}\n\n**Attention Réglementation particulière :**\nSoyez discret, respecter la charte, respecter le site (château)\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2494|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0368,7.68307|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2494&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Yellow",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.37816,
                     48.3154
                 ]
