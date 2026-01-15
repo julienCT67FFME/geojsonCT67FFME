@@ -117,12 +117,12 @@
             },
             "properties": {
                 "name": "Klingenthal",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3117.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3117|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4679,7.40168|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3117&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3117.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3117|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4679,7.40168|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3117&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
@@ -306,7 +306,7 @@
             },
             "properties": {
                 "name": "Les Roches Plates",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1641.jpg|100}}\n\n**Attention Réglementation particulière :**\n\r\nLa convention entre les communes, l'ONF et le comité du Bas-Rhin de la FFME est en cours de signature. Le site ouvrira dès la convention signé. \r\n\r\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/01 au 31/12\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1641|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7743,7.34917|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1641&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1641.jpg|100}}\n\n**Attention Réglementation particulière :**\nLa convention entre les communes, l'ONF et le comité du Bas-Rhin de la FFME est en cours de signature. Le site ouvrira dès la convention signé. \r\n\r\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/01 au 31/12\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1641|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7743,7.34917|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1641&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
@@ -537,12 +537,12 @@
             },
             "properties": {
                 "name": "Wolffelsen Obersteinbach",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/07\r\n\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1633.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/07\r\n\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1633|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0358,7.69067|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1633&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
@@ -1251,12 +1251,12 @@
             },
             "properties": {
                 "name": "Falkenfels",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2489.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2489|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6843,7.21864|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2489&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2489.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2489|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6843,7.21864|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2489&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
@@ -1293,12 +1293,12 @@
             },
             "properties": {
                 "name": "Krappenfels - Lutzelbourg",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1433.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1433|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7436,7.25814|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1433&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1433.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/04\r\nOuverture partielle du 16/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1433|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7436,7.25814|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1433&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
@@ -1377,12 +1377,12 @@
             },
             "properties": {
                 "name": "Rocher Canal",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 15/01 au 15/04\r\nOuverture partielle du 15/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/04\r\nOuverture partielle du 16/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
