@@ -447,6 +447,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.74335,
+                    49.0372
+                ]
+            },
+            "properties": {
+                "name": "Ruine du Froensbourg",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3345.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3345|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=49.0288,7.73459|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3345&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.82693,
                     48.9778
                 ]
