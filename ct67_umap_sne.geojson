@@ -122,7 +122,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Yellow",
+                    "color": "Red",
                     "popupShape": "Panel"
                 }
             }
@@ -563,7 +563,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Yellow",
+                    "color": "Red",
                     "popupShape": "Panel"
                 }
             }
@@ -1277,7 +1277,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Yellow",
+                    "color": "Red",
                     "popupShape": "Panel"
                 }
             }
@@ -1319,7 +1319,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Yellow",
+                    "color": "Red",
                     "popupShape": "Panel"
                 }
             }
@@ -1403,7 +1403,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Yellow",
+                    "color": "Red",
                     "popupShape": "Panel"
                 }
             }
