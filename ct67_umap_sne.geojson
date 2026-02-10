@@ -468,6 +468,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.29956,
+                    48.6821
+                ]
+            },
+            "properties": {
+                "name": "Seebfels",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3340.jpg|100}}\n\n**Type de site :** Inconnu\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3340|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6815,7.31209|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3340&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Inconnu",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.82693,
                     48.9778
                 ]
