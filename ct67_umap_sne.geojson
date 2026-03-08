@@ -153,6 +153,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.30132,
+                    48.6931
+                ]
+            },
+            "properties": {
+                "name": "Krappenfels haberacker",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1643.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/04\r\nOuverture partielle du 16/04 au 15/07\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1643|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6813,7.31199|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1643&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site avec Interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Red",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.47197,
                     48.6302
                 ]
