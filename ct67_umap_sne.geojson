@@ -111,6 +111,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    7.65338,
+                    48.9686
+                ]
+            },
+            "properties": {
+                "name": "Heidenkopf-vosges du nord",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1638.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1638|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.964,7.64853|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1638&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     7.40171,
                     48.4679
                 ]
@@ -412,6 +433,27 @@
             "properties": {
                 "name": "Neuntelstein",
                 "description": "{{https://www.montagne-escalade.com/site/uploads/1626.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1626|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.4219,7.3338|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1626&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Sportif",
+                "interdiction": "Site sans interdiction",
+                "_umap_options": {
+                    "iconClass": "Drop",
+                    "color": "Green",
+                    "popupShape": "Panel"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.31343,
+                    48.7239
+                ]
+            },
+            "properties": {
+                "name": "Rappenfels",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2491.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2491|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7202,7.31316|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2491&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
