@@ -1497,13 +1497,13 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    7.06477,
-                    48.6101
+                    7.10205,
+                    48.6214
                 ]
             },
             "properties": {
                 "name": "Rocher de Saint Quirin",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/3339.jpg|100}}\n\n**Type de site :** Inconnu\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3339|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6103,7.06288|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3339&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/3339.jpg|100}}\n\n**Type de site :** Inconnu\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/3339|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.6236,7.10198|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=3339&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Inconnu",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
