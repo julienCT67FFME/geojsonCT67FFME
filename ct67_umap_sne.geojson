@@ -185,7 +185,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Orange",
                     "popupShape": "Panel"
                 }
             }
@@ -1403,7 +1403,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Orange",
                     "popupShape": "Panel"
                 }
             }
@@ -1487,7 +1487,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Orange",
                     "popupShape": "Panel"
                 }
             }
