@@ -621,8 +621,8 @@
             },
             "properties": {
                 "name": "Windstein (Chateau du vieux Windstein)",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/1632.jpg|100}}\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1632|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.9948,7.68345|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1632&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
-                "type": "Sportif",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/1632.jpg|100}}\n\n**Type de site :** Terrain d'aventure\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/1632|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.9948,7.68345|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=1632&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "type": "Terrain d'aventure",
                 "interdiction": "Site sans interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
