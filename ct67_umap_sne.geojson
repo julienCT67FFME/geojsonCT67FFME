@@ -1482,12 +1482,12 @@
             },
             "properties": {
                 "name": "Rocher Canal",
-                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/08\r\n\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7238,7.18042|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
+                "description": "{{https://www.montagne-escalade.com/site/uploads/2490.jpg|100}}\n\n**Attention Réglementation particulière :**\nAttention site concerné par la nidification\r\n\r\nFermeture complète du 01/02 au 15/07\r\n\r\n\r\nCes dates sont données à titre indicatif et pourront varier au cours de la saison et de l'état de la nidification\n\n**Type de site :** Sportif\n\n**Informations détaillées :** [[https://www.ffme.fr/sne-fiche/2490|Lien vers la page FFME du site]]\n\n**Parking :** [[https://maps.google.com/maps?q=48.7238,7.18042|Lien vers le parking]]\n\n**Alerter le gestionnaire du site :** [[https://www.montagne-escalade.com/site/BO/contactFFME.php?sne=2490&organisateur=1|Problème d'accès, de sécurité ou modification des informations]]\n\n",
                 "type": "Sportif",
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
