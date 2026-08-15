@@ -185,7 +185,7 @@
                 "interdiction": "Site avec Interdiction",
                 "_umap_options": {
                     "iconClass": "Drop",
-                    "color": "Red",
+                    "color": "Yellow",
                     "popupShape": "Panel"
                 }
             }
